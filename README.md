@@ -1,16 +1,5 @@
-# idiom_journey
+# IdiomJourney
 
-A new Flutter project.
+Ovaj projekat uključuje mobilnu aplikaciju za učenje idioma i fraza. Kompletan dizajn aplikacije je napravljen u Figma-i, i možete ga videti putem sledećeg linka:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Figma dizajn za IdiomJourney](https://www.figma.com/design/pJqER9qrPRh2NT5y8BZYFY/IdiomJourney?node-id=0-1&node-type=canvas&t=KT7Qz2s1sDHCWI7W-0)
